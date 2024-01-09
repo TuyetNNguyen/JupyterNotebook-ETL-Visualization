@@ -1,11 +1,11 @@
-package edu.upenn.cit594;
-import edu.upenn.cit594.datamanagement.StateReader;
-import edu.upenn.cit594.datamanagement.TweetReader;
-import edu.upenn.cit594.logging.Logger;
-import edu.upenn.cit594.processor.FluTweetsProcessor;
-import edu.upenn.cit594.processor.LocationOfFluTweetProcessor;
-import edu.upenn.cit594.ui.UserInterface;
-import edu.upenn.cit594.util.StateAndTweetModel;
+package Tweets;
+import Tweets.datamanagement.StateReader;
+import Tweets.datamanagement.TweetReader;
+import Tweets.logging.Logger;
+import Tweets.processor.FluTweetsProcessor;
+import Tweets.processor.LocationOfFluTweetProcessor;
+import Tweets.ui.UserInterface;
+import Tweets.util.StateAndTweetModel;
 import org.json.simple.parser.ParseException;
 import java.io.IOException;
 
