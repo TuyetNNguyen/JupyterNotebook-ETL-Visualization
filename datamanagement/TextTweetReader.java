@@ -1,6 +1,6 @@
-package edu.upenn.cit594.datamanagement;
-import edu.upenn.cit594.util.StateAndTweetModel;
-import edu.upenn.cit594.util.Tweet;
+package tweets.datamanagement;
+import tweets.util.StateAndTweetModel;
+import tweets.util.Tweet;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
