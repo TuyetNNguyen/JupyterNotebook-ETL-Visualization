@@ -1,11 +1,11 @@
-package Tweets;
-import Tweets.datamanagement.StateReader;
-import Tweets.datamanagement.TweetReader;
-import Tweets.logging.Logger;
-import Tweets.processor.FluTweetsProcessor;
-import Tweets.processor.LocationOfFluTweetProcessor;
-import Tweets.ui.UserInterface;
-import Tweets.util.StateAndTweetModel;
+package tweets;
+import tweets.datamanagement.StateReader;
+import tweets.datamanagement.TweetReader;
+import tweets.logging.Logger;
+import tweets.processor.FluTweetsProcessor;
+import tweets.processor.LocationOfFluTweetProcessor;
+import tweets.ui.UserInterface;
+import tweets.util.StateAndTweetModel;
 import org.json.simple.parser.ParseException;
 import java.io.IOException;
 
